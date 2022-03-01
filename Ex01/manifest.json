@@ -11,7 +11,7 @@
                 "https://*/*",
                 "http://*/*"
             ],
-            "js": ["indexSolution.js"]
+            "js": ["index.js"]
         }
     ]
 }
