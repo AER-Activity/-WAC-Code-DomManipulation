@@ -1,10 +1,9 @@
 # Code-DomManipulation
 
-Pour cette Activité vous allez devoir manipuler le Dom de certain site web.
-Pour commencer vous allez récupéré des informations de l'Intranet d'epitech.
-Puis vous allez manipuler le Dom de certaine page web.
+Pour cette activité vous allez devoir manipuler le Dom de certains sites web. 
 
-Lien Utile:
-    - https://developer.mozilla.org/fr/docs/Web/API/Element
+Pour commencer vous allez récupérer des informations de l'intranet d'Epitech. Puis vous allez manipuler le Dom de certainess pages web.
 
-Pour toute question n'hesiter surtout pas a poser une question ^^
+Lien Utile: - https://developer.mozilla.org/fr/docs/Web/API/Element
+
+Pour toute question n'hésitée surtout pas à poser une question ^^
