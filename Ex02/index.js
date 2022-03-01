@@ -16,3 +16,7 @@ const tabFruit = ['pomme', 'poire', 'fraise', 'tomate', 'orange', 'framboise', '
 // 4. Pour finir il faut gerer le click sur les button et ouvrir une page wikipedia sur le fruit cliqué
 // Pour cela il faudra utilisé la fonction faite si dessous
 
+window.onclick = async function(event) {
+    const target = event.target;
+    console.log(target.className);
+}
